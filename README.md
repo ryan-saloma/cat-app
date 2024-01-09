@@ -6,5 +6,7 @@ Some things that this app could eventually do:
 - Track when litter begins to smell
 - Track cat weight
 - Track air quality
+- Connect veternarians to cat owners
+- Connect Amazon acct to buy pet supplies easily
 
 # Designing App
